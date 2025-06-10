@@ -7,7 +7,7 @@
 
 /* Table Styling */
 .table {
-  align:center;
+  margin: auto;          /* Center the table horizontally */
   width: 50%;
   border-collapse: collapse;
 }
