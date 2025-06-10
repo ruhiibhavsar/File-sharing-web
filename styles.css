@@ -8,6 +8,7 @@
 /* Table Styling */
 .table {
   margin: auto;          /* Center the table horizontally */
+  justify-content: center; /* horizontal centering */
   width: 50%;
   border-collapse: collapse;
 }
